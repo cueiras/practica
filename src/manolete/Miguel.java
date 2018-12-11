@@ -27,6 +27,10 @@ public class Miguel {
 	public void setDni(int dni) {
 		this.dni = dni;
 	}
+	public static String cadena() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 
 	
 	
